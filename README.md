@@ -28,7 +28,7 @@ check your docker：
 docker ps -a 
 ```
 ```
-docker rm -f <container_id>
+docker logs -f <container_id>
 ```
 
 
