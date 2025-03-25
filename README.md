@@ -1,6 +1,6 @@
 # Gradient network 
 
-- my ref：[https://app.gradient.network/]([https://app.gradient.network/signup?code=9IWQDU)
+- my ref：[https://app.gradient.network/](https://app.gradient.network/signup?code=9IWQDU)
 - get proxy：[https://app.proxy-cheap.com](https://app.proxy-cheap.com/r/a78ljF)
 
 
